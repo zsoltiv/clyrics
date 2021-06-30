@@ -4,6 +4,6 @@
 
 ``clyrics [FILES]``
 
-## Installation
+## Installing the required dependencies
 
 ``pip install -r requirements.txt``
